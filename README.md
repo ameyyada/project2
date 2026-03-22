@@ -1,4 +1,4 @@
 # new project 
 
-This project was created from local system
-Created by Amey  yadav
+This project was created from local system .
+Created by Amey  yadav .
